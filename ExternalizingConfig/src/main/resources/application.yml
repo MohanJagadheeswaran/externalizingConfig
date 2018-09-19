@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: ExternalizingConfig
+  config:
+    location: ${MODULE_PROPERTY_CONFIG}
